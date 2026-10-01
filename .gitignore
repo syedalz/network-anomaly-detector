@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data — raw captures and large datasets
+*.pcap
+*.pcapng
+*.log
+data/raw/
+
