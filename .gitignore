@@ -223,3 +223,7 @@ __marimo__/
 *.log
 data/raw/
 
+# Ignore raw data contents but keep the folder
+data/raw/*
+!data/raw/.gitkeep
+
